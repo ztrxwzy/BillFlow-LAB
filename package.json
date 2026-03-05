@@ -1,0 +1,33 @@
+{
+  "name": "billflow-api-lab",
+  "version": "1.0.0",
+  "description": "BillFlow API lab with intentional IDOR vulnerabilities",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "client": "vite",
+    "client:build": "vite build",
+    "client:preview": "vite preview"
+  },
+  "keywords": [
+    "idor",
+    "api-security",
+    "express",
+    "sqlite"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^6.30.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.4",
+    "vite": "^7.3.1"
+  }
+}
