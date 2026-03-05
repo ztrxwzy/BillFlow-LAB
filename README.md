@@ -169,6 +169,8 @@ Same principle applies to `UPDATE`/`DELETE`.
 
 If you prefer a visual walkthrough over written steps, there is also a video series covering BOLA/IDOR using this lab context.
 
+[![IDOR en APIs: explotarlo, entenderlo y corregirlo en el código](https://img.youtube.com/vi/WsT0fWSBJwU/hqdefault.jpg)](http://www.youtube.com/watch?v=WsT0fWSBJwU "IDOR en APIs: explotarlo, entenderlo y corregirlo en el código")
+
 ## Credits
 
 Developed by Jesus Caldera.  
