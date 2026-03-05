@@ -128,6 +128,8 @@ npm start
 This lab was validated end-to-end on `Ubuntu Server` running in a virtual machine.  
 That VM setup was the primary hosting and testing environment.
 
+<img width="1271" height="793" alt="Captura de pantalla 2026-03-05 161048" src="https://github.com/user-attachments/assets/82a0880c-2586-46bd-816b-0998432cf93c" />
+
 ## Demo credentials
 
 - `demo_a / demo123`
